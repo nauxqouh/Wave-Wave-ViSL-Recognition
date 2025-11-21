@@ -8,7 +8,7 @@
 
 ### Step 1: Clone repository
 ```bash
-git clone https://github.com/nauxqouh/ViSL-100-words-Recognition-Project.git
+git clone https://github.com/nauxqouh/Wave-Wave-ViSL-Recognition.git
 cd deploy
 ```
 
