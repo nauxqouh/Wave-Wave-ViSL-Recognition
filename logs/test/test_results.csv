@@ -1,0 +1,501 @@
+file_name,ground_truth,prediction,confidence
+4.npy,Bắc Bộ,Bắc Bộ,0.9985831
+3.npy,Bắc Bộ,Bắc Bộ,0.99720156
+2.npy,Bắc Bộ,Bắc Bộ,0.9986959
+0.npy,Bắc Bộ,Bắc Bộ,0.9981116
+1.npy,Bắc Bộ,Bắc Bộ,0.9979438
+4.npy,Tây Nguyên,Tây Nguyên,0.999936
+3.npy,Tây Nguyên,Tây Nguyên,0.9999782
+2.npy,Tây Nguyên,Tây Nguyên,0.999987
+0.npy,Tây Nguyên,Tây Nguyên,0.9994765
+1.npy,Tây Nguyên,Tây Nguyên,0.99999285
+4.npy,bánh cốm,bánh cốm,0.994779
+3.npy,bánh cốm,bánh cốm,0.9809503
+2.npy,bánh cốm,bánh cốm,0.9958633
+0.npy,bánh cốm,bánh cốm,0.99790883
+1.npy,bánh cốm,bánh cốm,0.98498964
+4.npy,bánh giầy,bánh giầy,0.9990338
+3.npy,bánh giầy,bánh giầy,0.99966335
+2.npy,bánh giầy,bánh giầy,0.9991886
+0.npy,bánh giầy,bánh giầy,0.9996518
+1.npy,bánh giầy,bánh giầy,0.99715567
+4.npy,bánh hamburger,bánh hamburger,0.9999802
+3.npy,bánh hamburger,bánh hamburger,0.999972
+2.npy,bánh hamburger,bánh hamburger,0.99998295
+0.npy,bánh hamburger,bánh hamburger,0.99998343
+1.npy,bánh hamburger,bánh hamburger,0.9999883
+4.npy,bánh pía,bánh pía,0.9983625
+3.npy,bánh pía,bánh pía,0.99895287
+2.npy,bánh pía,bánh pía,0.9990951
+0.npy,bánh pía,bánh pía,0.99888307
+1.npy,bánh pía,bánh pía,0.9991097
+4.npy,bánh sandwich,bánh sandwich,0.9968528
+3.npy,bánh sandwich,bánh sandwich,0.99900097
+2.npy,bánh sandwich,bánh sandwich,0.9990735
+0.npy,bánh sandwich,bánh sandwich,0.99606764
+1.npy,bánh sandwich,bánh sandwich,0.99424005
+4.npy,bánh đa,bánh đa,0.99985254
+3.npy,bánh đa,bánh đa,0.9999237
+2.npy,bánh đa,bánh đa,0.99992776
+0.npy,bánh đa,bánh đa,0.99992585
+1.npy,bánh đa,bánh đa,0.9999163
+4.npy,buôn làng,buôn làng,0.99999213
+3.npy,buôn làng,buôn làng,0.9999896
+2.npy,buôn làng,buôn làng,0.9999883
+0.npy,buôn làng,buôn làng,0.9999833
+1.npy,buôn làng,buôn làng,0.99996316
+4.npy,buổi chiều,buổi chiều,0.999907
+3.npy,buổi chiều,buổi chiều,0.99910337
+2.npy,buổi chiều,buổi chiều,0.99991477
+0.npy,buổi chiều,buổi chiều,0.9999219
+1.npy,buổi chiều,buổi chiều,0.9999045
+4.npy,buổi sáng,buổi sáng,0.9974262
+3.npy,buổi sáng,nghệ sĩ,0.7792077
+2.npy,buổi sáng,máy tính laptop,0.60753477
+0.npy,buổi sáng,khẩu trang,0.98102736
+1.npy,buổi sáng,cây đa,0.96429825
+4.npy,buổi trưa,buổi trưa,0.9999789
+3.npy,buổi trưa,trốn tìm,0.5701926
+2.npy,buổi trưa,khẩu trang,0.58438045
+0.npy,buổi trưa,con bò,0.8446134
+1.npy,buổi trưa,trốn tìm,0.9413502
+4.npy,buổi đêm,buổi đêm,0.9999968
+3.npy,buổi đêm,buổi đêm,0.9999993
+2.npy,buổi đêm,buổi đêm,0.99999905
+0.npy,buổi đêm,buổi đêm,0.99999905
+1.npy,buổi đêm,buổi đêm,0.99999726
+4.npy,bàn ghế,bàn ghế,0.9999913
+3.npy,bàn ghế,máy tính laptop,0.99999595
+2.npy,bàn ghế,máy tính laptop,0.9999963
+0.npy,bàn ghế,máy tính laptop,0.7176044
+1.npy,bàn ghế,máy tính laptop,0.99998534
+4.npy,bạn,bạn,0.9994178
+3.npy,bạn,bạn,0.99959534
+2.npy,bạn,bạn,0.99956936
+0.npy,bạn,bạn,0.9993912
+1.npy,bạn,bạn,0.9995074
+4.npy,cây đa,cây đa,0.999998
+3.npy,cây đa,cây đa,0.9999958
+2.npy,cây đa,cây đa,0.999998
+0.npy,cây đa,cây đa,0.9999931
+1.npy,cây đa,cây đa,0.99999857
+4.npy,chai nước,chai nước,0.9999938
+3.npy,chai nước,chai nước,0.99999535
+2.npy,chai nước,chai nước,0.9999895
+0.npy,chai nước,chai nước,0.9999937
+1.npy,chai nước,chai nước,0.9999856
+4.npy,chính phủ,chính phủ,0.99925345
+3.npy,chính phủ,chính phủ,0.9991448
+2.npy,chính phủ,chính phủ,0.99943453
+0.npy,chính phủ,chính phủ,0.99920255
+1.npy,chính phủ,chính phủ,0.9993316
+4.npy,chung kết,chung kết,0.9999683
+3.npy,chung kết,chung kết,0.99994206
+2.npy,chung kết,chung kết,0.99996793
+0.npy,chung kết,chung kết,0.9999646
+1.npy,chung kết,chung kết,0.9999738
+4.npy,con bướm,con bướm,0.9999609
+3.npy,con bướm,con bướm,0.9999794
+2.npy,con bướm,con bướm,0.99996114
+0.npy,con bướm,con bướm,0.9999646
+1.npy,con bướm,con bướm,0.999933
+4.npy,con bò,con bò,0.99996614
+3.npy,con bò,con bò,0.99995923
+2.npy,con bò,con bò,0.9999603
+0.npy,con bò,con bò,0.99996316
+1.npy,con bò,con bò,0.9999602
+4.npy,con chuồn chuồn,con chuồn chuồn,0.99958676
+3.npy,con chuồn chuồn,con chuồn chuồn,0.9985851
+2.npy,con chuồn chuồn,con chuồn chuồn,0.99952126
+0.npy,con chuồn chuồn,con chuồn chuồn,0.9987779
+1.npy,con chuồn chuồn,con chuồn chuồn,0.99942124
+4.npy,con công,con công,0.9997805
+3.npy,con công,con công,0.9997371
+2.npy,con công,con công,0.99983275
+0.npy,con công,con công,0.99973494
+1.npy,con công,con công,0.99979573
+4.npy,con cua,con cua,0.99637705
+3.npy,con cua,con cua,0.9993741
+2.npy,con cua,con cua,0.9992341
+0.npy,con cua,con cua,0.9988764
+1.npy,con cua,con cua,0.9984281
+4.npy,con cừu,con cừu,0.99999833
+3.npy,con cừu,con cừu,0.9999993
+2.npy,con cừu,con cừu,0.9999994
+0.npy,con cừu,con cừu,0.9999988
+1.npy,con cừu,con cừu,0.9999994
+4.npy,con cá,con cá,0.9994723
+3.npy,con cá,con cá,0.999554
+2.npy,con cá,con cá,0.99624074
+0.npy,con cá,đánh răng,0.95286167
+1.npy,con cá,quả cam,0.998874
+4.npy,con dê,con dê,0.9999149
+3.npy,con dê,con dê,0.9999192
+2.npy,con dê,con dê,0.9999442
+0.npy,con dê,quả sầu riêng,0.75847435
+1.npy,con dê,bánh hamburger,0.9998678
+4.npy,con gà,con gà,0.9829033
+3.npy,con gà,máy tính laptop,0.99991333
+2.npy,con gà,máy tính laptop,0.9999162
+0.npy,con gà,bàn ghế,0.7021347
+1.npy,con gà,máy tính laptop,0.99388874
+4.npy,con mèo,con mèo,0.9991041
+3.npy,con mèo,con mèo,0.99924445
+2.npy,con mèo,con mèo,0.9994536
+0.npy,con mèo,con mèo,0.9869251
+1.npy,con mèo,con mèo,0.99920243
+4.npy,con ngỗng,con ngỗng,0.999582
+3.npy,con ngỗng,con ngỗng,0.9996189
+2.npy,con ngỗng,con ngỗng,0.9996395
+0.npy,con ngỗng,con ngỗng,0.9993687
+1.npy,con ngỗng,con ngỗng,0.99847466
+4.npy,con tôm,con tôm,0.99680495
+3.npy,con tôm,con tôm,0.9981482
+2.npy,con tôm,con tôm,0.9990845
+0.npy,con tôm,con cá,0.9857268
+1.npy,con tôm,con vượn,0.66077465
+4.npy,con voi,con voi,0.99947554
+3.npy,con voi,con voi,0.9993036
+2.npy,con voi,con voi,0.9994073
+0.npy,con voi,con voi,0.864855
+1.npy,con voi,quả dừa,0.27546436
+4.npy,con vượn,con vượn,0.9999734
+3.npy,con vượn,con vượn,0.9999702
+2.npy,con vượn,con vượn,0.999974
+0.npy,con vượn,con vượn,0.99997556
+1.npy,con vượn,con vượn,0.99996746
+4.npy,cô giáo,cô giáo,0.9997584
+3.npy,cô giáo,cô giáo,0.9998406
+2.npy,cô giáo,cô giáo,0.99986506
+0.npy,cô giáo,đánh răng,0.9553702
+1.npy,cô giáo,tấm lòng,0.64067066
+4.npy,dân tộc,dân tộc,0.9988795
+3.npy,dân tộc,dân tộc,0.99936336
+2.npy,dân tộc,dân tộc,0.9995003
+0.npy,dân tộc,dân tộc,0.99977726
+1.npy,dân tộc,dân tộc,0.99932253
+4.npy,dân tộc Chăm,dân tộc Chăm,0.9999931
+3.npy,dân tộc Chăm,dân tộc Chăm,0.99999297
+2.npy,dân tộc Chăm,dân tộc Chăm,0.9999902
+0.npy,dân tộc Chăm,dân tộc Chăm,0.9999932
+1.npy,dân tộc Chăm,dân tộc Chăm,0.9999931
+4.npy,dân tộc Khơ me,dân tộc Khơ me,0.99924743
+3.npy,dân tộc Khơ me,dân tộc Khơ me,0.9986016
+2.npy,dân tộc Khơ me,dân tộc Khơ me,0.9990268
+0.npy,dân tộc Khơ me,dân tộc Khơ me,0.9991079
+1.npy,dân tộc Khơ me,dân tộc Khơ me,0.9993099
+4.npy,dân tộc Mường,dân tộc Mường,0.9999894
+3.npy,dân tộc Mường,dân tộc Mường,0.9999896
+2.npy,dân tộc Mường,dân tộc Mường,0.99998987
+0.npy,dân tộc Mường,dân tộc Mường,0.999992
+1.npy,dân tộc Mường,dân tộc Mường,0.99998987
+4.npy,dân tộc Thái,dân tộc Thái,0.9998776
+3.npy,dân tộc Thái,dân tộc Thái,0.9997838
+2.npy,dân tộc Thái,dân tộc Thái,0.9998703
+0.npy,dân tộc Thái,dân tộc Thái,0.99987125
+1.npy,dân tộc Thái,dân tộc Thái,0.9998517
+4.npy,giao thông,giao thông,0.9988078
+3.npy,giao thông,giao thông,0.9989158
+2.npy,giao thông,giao thông,0.9987754
+0.npy,giao thông,giao thông,0.99883896
+1.npy,giao thông,giao thông,0.9957541
+4.npy,giấy ăn,giấy ăn,0.99971706
+3.npy,giấy ăn,giấy ăn,0.99960774
+2.npy,giấy ăn,giấy ăn,0.99967253
+0.npy,giấy ăn,giấy ăn,0.99971
+1.npy,giấy ăn,giấy ăn,0.9995851
+4.npy,hải đảo,hải đảo,0.9901496
+3.npy,hải đảo,hải đảo,0.9931144
+2.npy,hải đảo,hải đảo,0.97884756
+0.npy,hải đảo,hải đảo,0.97731405
+1.npy,hải đảo,hải đảo,0.9932724
+4.npy,hoa giấy,hoa giấy,0.9991391
+3.npy,hoa giấy,hoa giấy,0.997658
+2.npy,hoa giấy,hoa giấy,0.9980831
+0.npy,hoa giấy,hoa giấy,0.9980313
+1.npy,hoa giấy,hoa giấy,0.99846953
+4.npy,hoa hồng,hoa hồng,0.99444205
+3.npy,hoa hồng,hoa hồng,0.9985868
+2.npy,hoa hồng,hoa hồng,0.9975848
+0.npy,hoa hồng,hoa hồng,0.9944214
+1.npy,hoa hồng,hoa hồng,0.9976344
+4.npy,hoa mai,hoa mai,0.99933606
+3.npy,hoa mai,hoa mai,0.9993311
+2.npy,hoa mai,hoa mai,0.9995943
+0.npy,hoa mai,hoa mai,0.99706656
+1.npy,hoa mai,hoa mai,0.99978477
+4.npy,hoa sen,hoa sen,0.9973786
+3.npy,hoa sen,hoa sen,0.9893434
+2.npy,hoa sen,hoa sen,0.99851614
+0.npy,hoa sen,hoa sen,0.9986099
+1.npy,hoa sen,hoa sen,0.99837565
+4.npy,hoa đào,hoa đào,0.9998894
+3.npy,hoa đào,hoa đào,0.9998909
+2.npy,hoa đào,hoa đào,0.999833
+0.npy,hoa đào,hoa đào,0.99989593
+1.npy,hoa đào,hoa đào,0.9999089
+4.npy,kẹo,kẹo,0.9999404
+3.npy,kẹo,kẹo,0.9999329
+2.npy,kẹo,kẹo,0.9999378
+0.npy,kẹo,kẹo,0.99993813
+1.npy,kẹo,kẹo,0.9999428
+4.npy,khẩu trang,khẩu trang,0.99998415
+3.npy,khẩu trang,khẩu trang,0.9999809
+2.npy,khẩu trang,khẩu trang,0.9999845
+0.npy,khẩu trang,khẩu trang,0.99993193
+1.npy,khẩu trang,khẩu trang,0.9999844
+4.npy,khăn quàng,khăn quàng,0.9999889
+3.npy,khăn quàng,khăn quàng,0.9999944
+2.npy,khăn quàng,khăn quàng,0.9999908
+0.npy,khăn quàng,khăn quàng,0.99999356
+1.npy,khăn quàng,khăn quàng,0.99999535
+4.npy,khoẻ mạnh,khoẻ mạnh,0.9999728
+3.npy,khoẻ mạnh,khoẻ mạnh,0.99849045
+2.npy,khoẻ mạnh,khoẻ mạnh,0.99985385
+0.npy,khoẻ mạnh,khoẻ mạnh,0.99999
+1.npy,khoẻ mạnh,khoẻ mạnh,0.99988496
+4.npy,mái chèo,mái chèo,0.99981946
+3.npy,mái chèo,mái chèo,0.99981827
+2.npy,mái chèo,mái chèo,0.9998418
+0.npy,mái chèo,mái chèo,0.9997707
+1.npy,mái chèo,mái chèo,0.9998242
+4.npy,máy tính laptop,máy tính laptop,0.99999845
+3.npy,máy tính laptop,máy tính laptop,0.9999963
+2.npy,máy tính laptop,máy tính laptop,0.99999845
+0.npy,máy tính laptop,máy tính laptop,0.7675679
+1.npy,máy tính laptop,máy tính laptop,0.7803428
+4.npy,mầm non,mầm non,0.99945515
+3.npy,mầm non,mầm non,0.9994382
+2.npy,mầm non,mầm non,0.998779
+0.npy,mầm non,mầm non,0.9994671
+1.npy,mầm non,mầm non,0.9972838
+4.npy,miền Bắc Việt Nam,miền Bắc Việt Nam,0.9983063
+3.npy,miền Bắc Việt Nam,miền Bắc Việt Nam,0.99818265
+2.npy,miền Bắc Việt Nam,miền Bắc Việt Nam,0.99726677
+0.npy,miền Bắc Việt Nam,miền Bắc Việt Nam,0.9976936
+1.npy,miền Bắc Việt Nam,miền Bắc Việt Nam,0.99830246
+4.npy,miền Nam Việt Nam,miền Nam Việt Nam,0.9995931
+3.npy,miền Nam Việt Nam,miền Nam Việt Nam,0.99757713
+2.npy,miền Nam Việt Nam,miền Nam Việt Nam,0.9989498
+0.npy,miền Nam Việt Nam,miền Nam Việt Nam,0.99816847
+1.npy,miền Nam Việt Nam,miền Nam Việt Nam,0.99935395
+4.npy,mùa xuân,mùa xuân,0.99988484
+3.npy,mùa xuân,mùa xuân,0.999894
+2.npy,mùa xuân,mùa xuân,0.9998957
+0.npy,mùa xuân,mùa xuân,0.999882
+1.npy,mùa xuân,mùa xuân,0.99993086
+4.npy,mùa đông,mùa đông,0.99967015
+3.npy,mùa đông,mùa đông,0.9908552
+2.npy,mùa đông,mùa đông,0.99759287
+0.npy,mùa đông,mùa đông,0.9998155
+1.npy,mùa đông,mùa đông,0.9996557
+4.npy,nghệ sĩ,nghệ sĩ,0.99943465
+3.npy,nghệ sĩ,nghệ sĩ,0.99927026
+2.npy,nghệ sĩ,nghệ sĩ,0.9993926
+0.npy,nghệ sĩ,nghệ sĩ,0.9991241
+1.npy,nghệ sĩ,nghệ sĩ,0.9991591
+4.npy,nhà nước,nhà nước,0.9999639
+3.npy,nhà nước,nhà nước,0.99988663
+2.npy,nhà nước,nhà nước,0.9999479
+0.npy,nhà nước,nhà nước,0.9999598
+1.npy,nhà nước,nhà nước,0.9999609
+4.npy,nồi cơm điện,nồi cơm điện,0.99994254
+3.npy,nồi cơm điện,nồi cơm điện,0.999902
+2.npy,nồi cơm điện,nồi cơm điện,0.9999387
+0.npy,nồi cơm điện,nồi cơm điện,0.9998049
+1.npy,nồi cơm điện,nồi cơm điện,0.99993515
+4.npy,phi công,phi công,0.99999094
+3.npy,phi công,phi công,0.99999356
+2.npy,phi công,phi công,0.9999914
+0.npy,phi công,phi công,0.99998915
+1.npy,phi công,phi công,0.9999919
+4.npy,phóng viên,phóng viên,0.9995592
+3.npy,phóng viên,phóng viên,0.99980885
+2.npy,phóng viên,phóng viên,0.9997985
+0.npy,phóng viên,phóng viên,0.9988115
+1.npy,phóng viên,phóng viên,0.99983346
+4.npy,quanh năm,quanh năm,0.9999914
+3.npy,quanh năm,quanh năm,0.9999895
+2.npy,quanh năm,quanh năm,0.9999865
+0.npy,quanh năm,quanh năm,0.9999907
+1.npy,quanh năm,quanh năm,0.99998975
+4.npy,quả bưởi,quả bưởi,0.9977362
+3.npy,quả bưởi,quả bưởi,0.98958987
+2.npy,quả bưởi,quả bưởi,0.99799985
+0.npy,quả bưởi,quả bưởi,0.9970016
+1.npy,quả bưởi,quả bưởi,0.99653023
+4.npy,quả cam,quả cam,0.9999722
+3.npy,quả cam,quả cam,0.9999751
+2.npy,quả cam,quả cam,0.9999734
+0.npy,quả cam,quả cam,0.999972
+1.npy,quả cam,quả cam,0.9999771
+4.npy,quả chuối,quả chuối,0.9991848
+3.npy,quả chuối,quả chuối,0.9983517
+2.npy,quả chuối,quả chuối,0.99396837
+0.npy,quả chuối,quả chuối,0.9993123
+1.npy,quả chuối,quả chuối,0.9977551
+4.npy,quả dưa hấu,quả dưa hấu,0.9992949
+3.npy,quả dưa hấu,quả dưa hấu,0.99909747
+2.npy,quả dưa hấu,quả dưa hấu,0.9994894
+0.npy,quả dưa hấu,quả dưa hấu,0.99943835
+1.npy,quả dưa hấu,quả dưa hấu,0.9983063
+4.npy,quả dừa,quả dừa,0.99999905
+3.npy,quả dừa,quả dừa,0.9999937
+2.npy,quả dừa,quả dừa,0.99999833
+0.npy,quả dừa,quả dừa,0.9999988
+1.npy,quả dừa,quả dừa,0.9999988
+4.npy,quả sầu riêng,quả sầu riêng,0.9990877
+3.npy,quả sầu riêng,quả sầu riêng,0.9996872
+2.npy,quả sầu riêng,quả sầu riêng,0.99324894
+0.npy,quả sầu riêng,quả sầu riêng,0.99967873
+1.npy,quả sầu riêng,quả sầu riêng,0.9994783
+4.npy,rượu,rượu,0.99984276
+3.npy,rượu,rượu,0.99966586
+2.npy,rượu,rượu,0.999813
+0.npy,rượu,rượu,0.99990606
+1.npy,rượu,rượu,0.9998165
+4.npy,rửa mặt,rửa mặt,0.9997738
+3.npy,rửa mặt,rửa mặt,0.9998574
+2.npy,rửa mặt,rửa mặt,0.9998634
+0.npy,rửa mặt,rửa mặt,0.999846
+1.npy,rửa mặt,rửa mặt,0.9997793
+4.npy,sóng biển,sóng biển,0.99988616
+3.npy,sóng biển,sóng biển,0.99987984
+2.npy,sóng biển,sóng biển,0.9999114
+0.npy,sóng biển,sóng biển,0.99992573
+1.npy,sóng biển,sóng biển,0.9999138
+4.npy,sách,sách,0.9997851
+3.npy,sách,sách,0.9993419
+2.npy,sách,sách,0.99994385
+0.npy,sách,sách,0.99991965
+1.npy,sách,sách,0.99991107
+4.npy,tấm lòng,tấm lòng,0.99999356
+3.npy,tấm lòng,tấm lòng,0.999992
+2.npy,tấm lòng,tấm lòng,0.9999896
+0.npy,tấm lòng,tấm lòng,0.9999932
+1.npy,tấm lòng,tấm lòng,0.99999213
+4.npy,thương yêu,thương yêu,0.9950925
+3.npy,thương yêu,thương yêu,0.9953713
+2.npy,thương yêu,thương yêu,0.9953519
+0.npy,thương yêu,máy tính laptop,0.99996483
+1.npy,thương yêu,máy tính laptop,0.9996456
+4.npy,thầy giáo,thầy giáo,0.9977568
+3.npy,thầy giáo,thầy giáo,0.9979194
+2.npy,thầy giáo,thầy giáo,0.9978351
+0.npy,thầy giáo,thầy giáo,0.9969309
+1.npy,thầy giáo,thầy giáo,0.9977822
+4.npy,tiếp tân,tiếp tân,0.9998727
+3.npy,tiếp tân,tiếp tân,0.9998667
+2.npy,tiếp tân,tiếp tân,0.99985623
+0.npy,tiếp tân,tiếp tân,0.999951
+1.npy,tiếp tân,tiếp tân,0.9999715
+4.npy,tỉnh,tỉnh,0.99995506
+3.npy,tỉnh,tỉnh,0.9996158
+2.npy,tỉnh,tỉnh,0.9999684
+0.npy,tỉnh,tỉnh,0.9999368
+1.npy,tỉnh,tỉnh,0.9999759
+4.npy,trà,trà,0.9998996
+3.npy,trà,trà,0.99983096
+2.npy,trà,trà,0.9999019
+0.npy,trà,trà,0.9999145
+1.npy,trà,trà,0.9998235
+4.npy,trà sữa,trà sữa,0.9992874
+3.npy,trà sữa,trà sữa,0.9993273
+2.npy,trà sữa,trà sữa,0.9992854
+0.npy,trà sữa,trà sữa,0.99854845
+1.npy,trà sữa,trà sữa,0.99961144
+4.npy,trốn tìm,trốn tìm,0.9999999
+3.npy,trốn tìm,trốn tìm,0.99999976
+2.npy,trốn tìm,trốn tìm,0.99999905
+0.npy,trốn tìm,trốn tìm,0.9999881
+1.npy,trốn tìm,trốn tìm,0.9999999
+4.npy,từ chối,từ chối,0.999653
+3.npy,từ chối,từ chối,0.9999517
+2.npy,từ chối,từ chối,0.9998785
+0.npy,từ chối,từ chối,0.999613
+1.npy,từ chối,từ chối,0.9996543
+4.npy,tàu hoả,tàu hoả,0.9991252
+3.npy,tàu hoả,tàu hoả,0.9999461
+2.npy,tàu hoả,tàu hoả,0.9999496
+0.npy,tàu hoả,tàu hoả,0.9958191
+1.npy,tàu hoả,tàu hoả,0.9989911
+4.npy,tạm biệt,tạm biệt,0.9992575
+3.npy,tạm biệt,tạm biệt,0.99972457
+2.npy,tạm biệt,tạm biệt,0.9996444
+0.npy,tạm biệt,tạm biệt,0.99973637
+1.npy,tạm biệt,tạm biệt,0.99971503
+4.npy,tự tin,tự tin,0.99997795
+3.npy,tự tin,tự tin,0.9999715
+2.npy,tự tin,tự tin,0.9999784
+0.npy,tự tin,tự tin,0.9999802
+1.npy,tự tin,tự tin,0.9999794
+4.npy,vui mừng,vui mừng,0.9999397
+3.npy,vui mừng,vui mừng,0.99993694
+2.npy,vui mừng,vui mừng,0.99993694
+0.npy,vui mừng,vui mừng,0.9999397
+1.npy,vui mừng,vui mừng,0.9998852
+4.npy,xã hội,xã hội,0.9760749
+3.npy,xã hội,xã hội,0.9804694
+2.npy,xã hội,xã hội,0.98644096
+0.npy,xã hội,xã hội,0.9867401
+1.npy,xã hội,xã hội,0.9847919
+4.npy,xe cứu hỏa,xe cứu hỏa,0.99993885
+3.npy,xe cứu hỏa,xe cứu hỏa,0.99995303
+2.npy,xe cứu hỏa,xe cứu hỏa,0.9999522
+0.npy,xe cứu hỏa,xe cứu hỏa,0.9998994
+1.npy,xe cứu hỏa,xe cứu hỏa,0.99994445
+4.npy,xe cứu thương,xe cứu thương,0.99992037
+3.npy,xe cứu thương,xe cứu thương,0.9992873
+2.npy,xe cứu thương,xe cứu thương,0.99927896
+0.npy,xe cứu thương,xe cứu thương,0.99829215
+1.npy,xe cứu thương,xe cứu thương,0.9998259
+4.npy,xe máy,xe máy,0.9999703
+3.npy,xe máy,xe máy,0.9999633
+2.npy,xe máy,xe máy,0.9999263
+0.npy,xe máy,xe máy,0.9999597
+1.npy,xe máy,xe máy,0.9999652
+4.npy,xe tải,xe tải,0.9999964
+3.npy,xe tải,xe tải,0.9999945
+2.npy,xe tải,xe tải,0.99999607
+0.npy,xe tải,tấm lòng,0.43696597
+1.npy,xe tải,máy tính laptop,0.9743046
+4.npy,xe đạp,xe đạp,0.99952745
+3.npy,xe đạp,xe đạp,0.9992048
+2.npy,xe đạp,xe đạp,0.9994406
+0.npy,xe đạp,xe đạp,0.99917597
+1.npy,xe đạp,xe đạp,0.9994832
+4.npy,ông bà,ông bà,0.9999826
+3.npy,ông bà,ông bà,0.99996483
+2.npy,ông bà,ông bà,0.99996734
+0.npy,ông bà,ông bà,0.9999845
+1.npy,ông bà,ông bà,0.99997663
+4.npy,đánh răng,đánh răng,0.999982
+3.npy,đánh răng,đánh răng,0.9999939
+2.npy,đánh răng,đánh răng,0.99998605
+0.npy,đánh răng,đánh răng,0.9999845
+1.npy,đánh răng,đánh răng,0.99988604
+4.npy,đánh trống,đánh trống,0.99876153
+3.npy,đánh trống,đánh trống,0.99996126
+2.npy,đánh trống,đánh trống,0.9999782
+0.npy,đánh trống,đánh trống,0.9999784
+1.npy,đánh trống,đánh trống,0.9999076
+4.npy,đèn pin,đèn pin,0.99998844
+3.npy,đèn pin,đèn pin,0.9999957
+2.npy,đèn pin,đèn pin,0.9999877
+0.npy,đèn pin,đèn pin,0.99995077
+1.npy,đèn pin,đèn pin,0.99999714
+4.npy,đèn vàng,đèn vàng,0.99893826
+3.npy,đèn vàng,đèn vàng,0.9990845
+2.npy,đèn vàng,đèn vàng,0.9990701
+0.npy,đèn vàng,đèn vàng,0.99904245
+1.npy,đèn vàng,đèn vàng,0.999022
+4.npy,đèn xanh,đèn xanh,0.99942964
+3.npy,đèn xanh,đèn xanh,0.9994253
+2.npy,đèn xanh,đèn xanh,0.99947244
+0.npy,đèn xanh,đèn xanh,0.9994673
+1.npy,đèn xanh,đèn xanh,0.99958307
+4.npy,đèn đỏ,đèn đỏ,0.99988604
+3.npy,đèn đỏ,đèn đỏ,0.99994886
+2.npy,đèn đỏ,đèn đỏ,0.9999075
+0.npy,đèn đỏ,đèn đỏ,0.99993384
+1.npy,đèn đỏ,đèn đỏ,0.9999082
